@@ -4,4 +4,4 @@ Open a log file and parse it for necessary data information. It doesn't affect R
 
 <b>  Usage </b>
 <hr>
-$ time python LogParser.py
+$ time python LogParser.py test.log
